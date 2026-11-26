@@ -21,6 +21,6 @@ public class HelloController {
 
     @GetMapping("/hi")
     public String hi() {
-        return "HI 반가워";
+        return "HI 반가워엉";
     }
 }
